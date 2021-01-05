@@ -1,0 +1,31 @@
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe.config
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csprojAssemblyReference.cache
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Form1.resources
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Properties.Resources.resources
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csproj.GenerateResource.cache
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\source\repos\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe.config
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csprojAssemblyReference.cache
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Form1.resources
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Properties.Resources.resources
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csproj.GenerateResource.cache
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\Desktop\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe.config
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csprojAssemblyReference.cache
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Form1.resources
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.Properties.Resources.resources
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.csproj.GenerateResource.cache
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.exe
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.pdb
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.exe.manifest
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\bin\Debug\Yuzem_Optik.application
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.exe.manifest
+C:\Users\w3rtig0\Desktop\gCloud\YUZEM İŞLERİ\Yuzem_Optik\Yuzem_Optik\obj\Debug\Yuzem_Optik.application
